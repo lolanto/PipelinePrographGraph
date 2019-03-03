@@ -1,0 +1,4 @@
+build/
+vsdev/x64/
+vsdev/.vs/
+*.xml
